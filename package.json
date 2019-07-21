@@ -1,0 +1,25 @@
+{
+  "name": "arr-lpad",
+  "version": "0.0.0",
+  "description": "https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "1.1.2",
+    "@urbica/react-map-gl": "1.7.0",
+    "@urbica/react-map-gl-draw": "0.3.1",
+    "mapbox-gl": "1.1.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
